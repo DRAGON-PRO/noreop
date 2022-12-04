@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/MSPROBOT/videofile",
-    "repository": "https://github.com/MSPROBOT/videofile",
+    "website": "https://github.com/DRAGON-PRO/noreop",
+    "repository": "https://github.com/DRAGON-PRO/noreop",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
